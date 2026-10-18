@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "TC-001",
+    "city": "Kochi",
+    "role": "AI Engineer",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 48.8,
+    "max_salary_lpa": 73.1,
+    "fully_loaded_cost_usd": 89108,
+    "time_to_hire_days": 63
+  },
+  {
+    "id": "TC-002",
+    "city": "NCR",
+    "role": "AI Engineer",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 22.8,
+    "max_salary_lpa": 36.0,
+    "fully_loaded_cost_usd": 42982,
+    "time_to_hire_days": 71
+  },
+  {
+    "id": "TC-003",
+    "city": "Hyderabad",
+    "role": "DevOps",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 18.0,
+    "max_salary_lpa": 28.8,
+    "fully_loaded_cost_usd": 34211,
+    "time_to_hire_days": 50
+  },
+  {
+    "id": "TC-004",
+    "city": "Bangalore",
+    "role": "AI Engineer",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 75.0,
+    "max_salary_lpa": 112.5,
+    "fully_loaded_cost_usd": 137061,
+    "time_to_hire_days": 69
+  },
+  {
+    "id": "TC-005",
+    "city": "Chennai",
+    "role": "AI Engineer",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 21.9,
+    "max_salary_lpa": 34.6,
+    "fully_loaded_cost_usd": 41301,
+    "time_to_hire_days": 81
+  },
+  {
+    "id": "TC-006",
+    "city": "Hyderabad",
+    "role": "DevOps",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 31.5,
+    "max_salary_lpa": 46.8,
+    "fully_loaded_cost_usd": 57237,
+    "time_to_hire_days": 46
+  },
+  {
+    "id": "TC-007",
+    "city": "Bangalore",
+    "role": "Finance Ops",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 10.0,
+    "fully_loaded_cost_usd": 11696,
+    "time_to_hire_days": 26
+  },
+  {
+    "id": "TC-008",
+    "city": "Ahmedabad",
+    "role": "Frontend",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 11.6,
+    "max_salary_lpa": 18.4,
+    "fully_loaded_cost_usd": 21930,
+    "time_to_hire_days": 37
+  },
+  {
+    "id": "TC-009",
+    "city": "Bangalore",
+    "role": "Backend Engineer",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 32.0,
+    "max_salary_lpa": 48.0,
+    "fully_loaded_cost_usd": 58480,
+    "time_to_hire_days": 54
+  },
+  {
+    "id": "TC-010",
+    "city": "Chennai",
+    "role": "AI Engineer",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 10.8,
+    "max_salary_lpa": 16.9,
+    "fully_loaded_cost_usd": 20249,
+    "time_to_hire_days": 88
+  },
+  {
+    "id": "TC-011",
+    "city": "Bangalore",
+    "role": "AI Engineer",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 48.0,
+    "max_salary_lpa": 72.0,
+    "fully_loaded_cost_usd": 87719,
+    "time_to_hire_days": 68
+  },
+  {
+    "id": "TC-012",
+    "city": "Kochi",
+    "role": "Finance Ops",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 20.8,
+    "max_salary_lpa": 33.8,
+    "fully_loaded_cost_usd": 39912,
+    "time_to_hire_days": 62
+  },
+  {
+    "id": "TC-013",
+    "city": "Chennai",
+    "role": "AI Engineer",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 57.8,
+    "max_salary_lpa": 86.6,
+    "fully_loaded_cost_usd": 105556,
+    "time_to_hire_days": 90
+  },
+  {
+    "id": "TC-014",
+    "city": "Kochi",
+    "role": "DevOps",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 35.8,
+    "max_salary_lpa": 52.0,
+    "fully_loaded_cost_usd": 64181,
+    "time_to_hire_days": 72
+  },
+  {
+    "id": "TC-015",
+    "city": "Hyderabad",
+    "role": "Frontend",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 40.5,
+    "max_salary_lpa": 61.2,
+    "fully_loaded_cost_usd": 74342,
+    "time_to_hire_days": 61
+  },
+  {
+    "id": "TC-016",
+    "city": "Ahmedabad",
+    "role": "Legal Counsel",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 10.9,
+    "max_salary_lpa": 19.0,
+    "fully_loaded_cost_usd": 21857,
+    "time_to_hire_days": 45
+  },
+  {
+    "id": "TC-017",
+    "city": "Bangalore",
+    "role": "Product Manager",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 22.0,
+    "max_salary_lpa": 36.0,
+    "fully_loaded_cost_usd": 42398,
+    "time_to_hire_days": 50
+  },
+  {
+    "id": "TC-018",
+    "city": "Pune",
+    "role": "Backend Engineer",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 25.9,
+    "max_salary_lpa": 38.9,
+    "fully_loaded_cost_usd": 47368,
+    "time_to_hire_days": 48
+  },
+  {
+    "id": "TC-019",
+    "city": "Kochi",
+    "role": "AI Engineer",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 18.5,
+    "max_salary_lpa": 29.2,
+    "fully_loaded_cost_usd": 34868,
+    "time_to_hire_days": 88
+  },
+  {
+    "id": "TC-020",
+    "city": "Chennai",
+    "role": "Backend Engineer",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 14.6,
+    "max_salary_lpa": 23.1,
+    "fully_loaded_cost_usd": 27558,
+    "time_to_hire_days": 47
+  },
+  {
+    "id": "TC-021",
+    "city": "Bangalore",
+    "role": "DevOps",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 10.0,
+    "max_salary_lpa": 16.0,
+    "fully_loaded_cost_usd": 19006,
+    "time_to_hire_days": 35
+  },
+  {
+    "id": "TC-022",
+    "city": "Pune",
+    "role": "AI Engineer",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 38.9,
+    "max_salary_lpa": 58.3,
+    "fully_loaded_cost_usd": 71053,
+    "time_to_hire_days": 69
+  },
+  {
+    "id": "TC-023",
+    "city": "Kochi",
+    "role": "DevOps",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 6.5,
+    "max_salary_lpa": 10.4,
+    "fully_loaded_cost_usd": 12354,
+    "time_to_hire_days": 33
+  },
+  {
+    "id": "TC-024",
+    "city": "Bangalore",
+    "role": "Frontend",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 45.0,
+    "max_salary_lpa": 68.0,
+    "fully_loaded_cost_usd": 82602,
+    "time_to_hire_days": 78
+  },
+  {
+    "id": "TC-025",
+    "city": "Bangalore",
+    "role": "Product Manager",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 65.0,
+    "max_salary_lpa": 100.0,
+    "fully_loaded_cost_usd": 120614,
+    "time_to_hire_days": 66
+  },
+  {
+    "id": "TC-026",
+    "city": "Ahmedabad",
+    "role": "Finance Ops",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 21.8,
+    "max_salary_lpa": 35.4,
+    "fully_loaded_cost_usd": 41813,
+    "time_to_hire_days": 90
+  },
+  {
+    "id": "TC-027",
+    "city": "Hyderabad",
+    "role": "Legal Counsel",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 27.0,
+    "max_salary_lpa": 45.0,
+    "fully_loaded_cost_usd": 52632,
+    "time_to_hire_days": 54
+  },
+  {
+    "id": "TC-028",
+    "city": "Kochi",
+    "role": "Finance Ops",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 13.0,
+    "max_salary_lpa": 20.8,
+    "fully_loaded_cost_usd": 24708,
+    "time_to_hire_days": 51
+  },
+  {
+    "id": "TC-029",
+    "city": "Ahmedabad",
+    "role": "Frontend",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 19.7,
+    "max_salary_lpa": 29.9,
+    "fully_loaded_cost_usd": 36257,
+    "time_to_hire_days": 50
+  },
+  {
+    "id": "TC-030",
+    "city": "Pune",
+    "role": "Frontend",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 23.5,
+    "max_salary_lpa": 35.6,
+    "fully_loaded_cost_usd": 43202,
+    "time_to_hire_days": 53
+  },
+  {
+    "id": "TC-031",
+    "city": "Bangalore",
+    "role": "Backend Engineer",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 19.0,
+    "max_salary_lpa": 30.0,
+    "fully_loaded_cost_usd": 35819,
+    "time_to_hire_days": 49
+  },
+  {
+    "id": "TC-032",
+    "city": "NCR",
+    "role": "Finance Ops",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 4.8,
+    "max_salary_lpa": 8.0,
+    "fully_loaded_cost_usd": 9357,
+    "time_to_hire_days": 22
+  },
+  {
+    "id": "TC-033",
+    "city": "Hyderabad",
+    "role": "Finance Ops",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 9.9,
+    "max_salary_lpa": 17.1,
+    "fully_loaded_cost_usd": 19737,
+    "time_to_hire_days": 48
+  },
+  {
+    "id": "TC-034",
+    "city": "Kochi",
+    "role": "Backend Engineer",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 20.8,
+    "max_salary_lpa": 31.2,
+    "fully_loaded_cost_usd": 38012,
+    "time_to_hire_days": 54
+  },
+  {
+    "id": "TC-035",
+    "city": "Chennai",
+    "role": "Backend Engineer",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 38.5,
+    "max_salary_lpa": 57.8,
+    "fully_loaded_cost_usd": 70395,
+    "time_to_hire_days": 71
+  },
+  {
+    "id": "TC-036",
+    "city": "Ahmedabad",
+    "role": "Finance Ops",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 13.6,
+    "max_salary_lpa": 21.8,
+    "fully_loaded_cost_usd": 25877,
+    "time_to_hire_days": 55
+  },
+  {
+    "id": "TC-037",
+    "city": "Pune",
+    "role": "DevOps",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 28.4,
+    "max_salary_lpa": 42.1,
+    "fully_loaded_cost_usd": 51535,
+    "time_to_hire_days": 49
+  },
+  {
+    "id": "TC-038",
+    "city": "Chennai",
+    "role": "Backend Engineer",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 24.6,
+    "max_salary_lpa": 37.0,
+    "fully_loaded_cost_usd": 45029,
+    "time_to_hire_days": 54
+  },
+  {
+    "id": "TC-039",
+    "city": "Chennai",
+    "role": "Finance Ops",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 4.6,
+    "max_salary_lpa": 7.7,
+    "fully_loaded_cost_usd": 8991,
+    "time_to_hire_days": 30
+  },
+  {
+    "id": "TC-040",
+    "city": "Hyderabad",
+    "role": "Backend Engineer",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 28.8,
+    "max_salary_lpa": 43.2,
+    "fully_loaded_cost_usd": 52632,
+    "time_to_hire_days": 48
+  },
+  {
+    "id": "TC-041",
+    "city": "Bangalore",
+    "role": "AI Engineer",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 28.5,
+    "max_salary_lpa": 45.0,
+    "fully_loaded_cost_usd": 53728,
+    "time_to_hire_days": 62
+  },
+  {
+    "id": "TC-042",
+    "city": "NCR",
+    "role": "Product Manager",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 9.6,
+    "max_salary_lpa": 16.0,
+    "fully_loaded_cost_usd": 18713,
+    "time_to_hire_days": 37
+  },
+  {
+    "id": "TC-043",
+    "city": "Ahmedabad",
+    "role": "DevOps",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 23.8,
+    "max_salary_lpa": 35.4,
+    "fully_loaded_cost_usd": 43275,
+    "time_to_hire_days": 56
+  },
+  {
+    "id": "TC-044",
+    "city": "Kochi",
+    "role": "DevOps",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 22.8,
+    "max_salary_lpa": 33.8,
+    "fully_loaded_cost_usd": 41374,
+    "time_to_hire_days": 57
+  },
+  {
+    "id": "TC-045",
+    "city": "Bangalore",
+    "role": "Backend Engineer",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 50.0,
+    "max_salary_lpa": 75.0,
+    "fully_loaded_cost_usd": 91374,
+    "time_to_hire_days": 60
+  },
+  {
+    "id": "TC-046",
+    "city": "Hyderabad",
+    "role": "Legal Counsel",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 14.4,
+    "max_salary_lpa": 25.2,
+    "fully_loaded_cost_usd": 28947,
+    "time_to_hire_days": 46
+  },
+  {
+    "id": "TC-047",
+    "city": "Pune",
+    "role": "Legal Counsel",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 24.3,
+    "max_salary_lpa": 40.5,
+    "fully_loaded_cost_usd": 47368,
+    "time_to_hire_days": 51
+  },
+  {
+    "id": "TC-048",
+    "city": "Kochi",
+    "role": "DevOps",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 13.0,
+    "max_salary_lpa": 20.8,
+    "fully_loaded_cost_usd": 24708,
+    "time_to_hire_days": 43
+  },
+  {
+    "id": "TC-049",
+    "city": "Hyderabad",
+    "role": "Backend Engineer",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 45.0,
+    "max_salary_lpa": 67.5,
+    "fully_loaded_cost_usd": 82237,
+    "time_to_hire_days": 89
+  },
+  {
+    "id": "TC-050",
+    "city": "Ahmedabad",
+    "role": "AI Engineer",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 9.5,
+    "max_salary_lpa": 15.0,
+    "fully_loaded_cost_usd": 17909,
+    "time_to_hire_days": 66
+  },
+  {
+    "id": "TC-051",
+    "city": "Chennai",
+    "role": "Finance Ops",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 8.5,
+    "max_salary_lpa": 14.6,
+    "fully_loaded_cost_usd": 16886,
+    "time_to_hire_days": 46
+  },
+  {
+    "id": "TC-052",
+    "city": "Bangalore",
+    "role": "Finance Ops",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 11.0,
+    "max_salary_lpa": 19.0,
+    "fully_loaded_cost_usd": 21930,
+    "time_to_hire_days": 36
+  },
+  {
+    "id": "TC-053",
+    "city": "Pune",
+    "role": "AI Engineer",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 23.1,
+    "max_salary_lpa": 36.5,
+    "fully_loaded_cost_usd": 43567,
+    "time_to_hire_days": 74
+  },
+  {
+    "id": "TC-054",
+    "city": "NCR",
+    "role": "Legal Counsel",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 24.0,
+    "max_salary_lpa": 40.0,
+    "fully_loaded_cost_usd": 46784,
+    "time_to_hire_days": 46
+  },
+  {
+    "id": "TC-055",
+    "city": "NCR",
+    "role": "DevOps",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 44.0,
+    "max_salary_lpa": 64.0,
+    "fully_loaded_cost_usd": 78947,
+    "time_to_hire_days": 75
+  },
+  {
+    "id": "TC-056",
+    "city": "Ahmedabad",
+    "role": "Backend Engineer",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 21.8,
+    "max_salary_lpa": 32.6,
+    "fully_loaded_cost_usd": 39766,
+    "time_to_hire_days": 48
+  },
+  {
+    "id": "TC-057",
+    "city": "NCR",
+    "role": "DevOps",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 8.0,
+    "max_salary_lpa": 12.8,
+    "fully_loaded_cost_usd": 15205,
+    "time_to_hire_days": 25
+  },
+  {
+    "id": "TC-058",
+    "city": "Kochi",
+    "role": "Product Manager",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 24.7,
+    "max_salary_lpa": 39.0,
+    "fully_loaded_cost_usd": 46564,
+    "time_to_hire_days": 58
+  },
+  {
+    "id": "TC-059",
+    "city": "Ahmedabad",
+    "role": "Finance Ops",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 7.5,
+    "max_salary_lpa": 12.9,
+    "fully_loaded_cost_usd": 14912,
+    "time_to_hire_days": 37
+  },
+  {
+    "id": "TC-060",
+    "city": "Chennai",
+    "role": "Backend Engineer",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 6.9,
+    "max_salary_lpa": 11.6,
+    "fully_loaded_cost_usd": 13523,
+    "time_to_hire_days": 35
+  },
+  {
+    "id": "TC-061",
+    "city": "NCR",
+    "role": "Frontend",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 13.6,
+    "max_salary_lpa": 21.6,
+    "fully_loaded_cost_usd": 25731,
+    "time_to_hire_days": 39
+  },
+  {
+    "id": "TC-062",
+    "city": "Chennai",
+    "role": "AI Engineer",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 37.0,
+    "max_salary_lpa": 55.4,
+    "fully_loaded_cost_usd": 67544,
+    "time_to_hire_days": 78
+  },
+  {
+    "id": "TC-063",
+    "city": "Kochi",
+    "role": "Backend Engineer",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 12.3,
+    "max_salary_lpa": 19.5,
+    "fully_loaded_cost_usd": 23246,
+    "time_to_hire_days": 47
+  },
+  {
+    "id": "TC-064",
+    "city": "Hyderabad",
+    "role": "AI Engineer",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 25.7,
+    "max_salary_lpa": 40.5,
+    "fully_loaded_cost_usd": 48392,
+    "time_to_hire_days": 67
+  },
+  {
+    "id": "TC-065",
+    "city": "Bangalore",
+    "role": "DevOps",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 35.0,
+    "max_salary_lpa": 52.0,
+    "fully_loaded_cost_usd": 63596,
+    "time_to_hire_days": 54
+  },
+  {
+    "id": "TC-066",
+    "city": "Ahmedabad",
+    "role": "Product Manager",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 15.0,
+    "max_salary_lpa": 24.5,
+    "fully_loaded_cost_usd": 28874,
+    "time_to_hire_days": 48
+  },
+  {
+    "id": "TC-067",
+    "city": "Ahmedabad",
+    "role": "Legal Counsel",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 5.4,
+    "max_salary_lpa": 9.5,
+    "fully_loaded_cost_usd": 10892,
+    "time_to_hire_days": 26
+  },
+  {
+    "id": "TC-068",
+    "city": "NCR",
+    "role": "Product Manager",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 30.4,
+    "max_salary_lpa": 48.0,
+    "fully_loaded_cost_usd": 57310,
+    "time_to_hire_days": 46
+  },
+  {
+    "id": "TC-069",
+    "city": "Pune",
+    "role": "Finance Ops",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 8.9,
+    "max_salary_lpa": 15.4,
+    "fully_loaded_cost_usd": 17763,
+    "time_to_hire_days": 43
+  },
+  {
+    "id": "TC-070",
+    "city": "Ahmedabad",
+    "role": "Product Manager",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 44.2,
+    "max_salary_lpa": 68.0,
+    "fully_loaded_cost_usd": 82018,
+    "time_to_hire_days": 60
+  },
+  {
+    "id": "TC-071",
+    "city": "Bangalore",
+    "role": "Frontend",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 8.0,
+    "max_salary_lpa": 14.0,
+    "fully_loaded_cost_usd": 16082,
+    "time_to_hire_days": 26
+  },
+  {
+    "id": "TC-072",
+    "city": "NCR",
+    "role": "Finance Ops",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 25.6,
+    "max_salary_lpa": 41.6,
+    "fully_loaded_cost_usd": 49123,
+    "time_to_hire_days": 67
+  },
+  {
+    "id": "TC-073",
+    "city": "Kochi",
+    "role": "Legal Counsel",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 19.5,
+    "max_salary_lpa": 32.5,
+    "fully_loaded_cost_usd": 38012,
+    "time_to_hire_days": 58
+  },
+  {
+    "id": "TC-074",
+    "city": "Ahmedabad",
+    "role": "Backend Engineer",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 12.9,
+    "max_salary_lpa": 20.4,
+    "fully_loaded_cost_usd": 24342,
+    "time_to_hire_days": 44
+  },
+  {
+    "id": "TC-075",
+    "city": "Pune",
+    "role": "Legal Counsel",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 13.0,
+    "max_salary_lpa": 22.7,
+    "fully_loaded_cost_usd": 26096,
+    "time_to_hire_days": 46
+  },
+  {
+    "id": "TC-076",
+    "city": "Ahmedabad",
+    "role": "DevOps",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 37.4,
+    "max_salary_lpa": 54.4,
+    "fully_loaded_cost_usd": 67105,
+    "time_to_hire_days": 69
+  },
+  {
+    "id": "TC-077",
+    "city": "Chennai",
+    "role": "Product Manager",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 50.1,
+    "max_salary_lpa": 77.0,
+    "fully_loaded_cost_usd": 92909,
+    "time_to_hire_days": 84
+  },
+  {
+    "id": "TC-078",
+    "city": "Pune",
+    "role": "Legal Counsel",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 40.5,
+    "max_salary_lpa": 68.9,
+    "fully_loaded_cost_usd": 79971,
+    "time_to_hire_days": 65
+  },
+  {
+    "id": "TC-079",
+    "city": "Bangalore",
+    "role": "Frontend",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 17.0,
+    "max_salary_lpa": 27.0,
+    "fully_loaded_cost_usd": 32164,
+    "time_to_hire_days": 39
+  },
+  {
+    "id": "TC-080",
+    "city": "Pune",
+    "role": "Frontend",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 13.8,
+    "max_salary_lpa": 21.9,
+    "fully_loaded_cost_usd": 26096,
+    "time_to_hire_days": 47
+  },
+  {
+    "id": "TC-081",
+    "city": "Chennai",
+    "role": "Frontend",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 6.2,
+    "max_salary_lpa": 10.8,
+    "fully_loaded_cost_usd": 12427,
+    "time_to_hire_days": 37
+  },
+  {
+    "id": "TC-082",
+    "city": "Bangalore",
+    "role": "DevOps",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 55.0,
+    "max_salary_lpa": 80.0,
+    "fully_loaded_cost_usd": 98684,
+    "time_to_hire_days": 85
+  },
+  {
+    "id": "TC-083",
+    "city": "Kochi",
+    "role": "Product Manager",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 42.2,
+    "max_salary_lpa": 65.0,
+    "fully_loaded_cost_usd": 78363,
+    "time_to_hire_days": 72
+  },
+  {
+    "id": "TC-084",
+    "city": "NCR",
+    "role": "DevOps",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 16.0,
+    "max_salary_lpa": 25.6,
+    "fully_loaded_cost_usd": 30409,
+    "time_to_hire_days": 38
+  },
+  {
+    "id": "TC-085",
+    "city": "NCR",
+    "role": "Backend Engineer",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 25.6,
+    "max_salary_lpa": 38.4,
+    "fully_loaded_cost_usd": 46784,
+    "time_to_hire_days": 56
+  },
+  {
+    "id": "TC-086",
+    "city": "Kochi",
+    "role": "Frontend",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 5.2,
+    "max_salary_lpa": 9.1,
+    "fully_loaded_cost_usd": 10453,
+    "time_to_hire_days": 26
+  },
+  {
+    "id": "TC-087",
+    "city": "Pune",
+    "role": "Product Manager",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 52.7,
+    "max_salary_lpa": 81.0,
+    "fully_loaded_cost_usd": 97734,
+    "time_to_hire_days": 60
+  },
+  {
+    "id": "TC-088",
+    "city": "Bangalore",
+    "role": "Legal Counsel",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 30.0,
+    "max_salary_lpa": 50.0,
+    "fully_loaded_cost_usd": 58480,
+    "time_to_hire_days": 52
+  },
+  {
+    "id": "TC-089",
+    "city": "Kochi",
+    "role": "Frontend",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 18.9,
+    "max_salary_lpa": 28.6,
+    "fully_loaded_cost_usd": 34722,
+    "time_to_hire_days": 56
+  },
+  {
+    "id": "TC-090",
+    "city": "Kochi",
+    "role": "Frontend",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 29.2,
+    "max_salary_lpa": 44.2,
+    "fully_loaded_cost_usd": 53655,
+    "time_to_hire_days": 78
+  },
+  {
+    "id": "TC-091",
+    "city": "Bangalore",
+    "role": "Legal Counsel",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 50.0,
+    "max_salary_lpa": 85.0,
+    "fully_loaded_cost_usd": 98684,
+    "time_to_hire_days": 66
+  },
+  {
+    "id": "TC-092",
+    "city": "NCR",
+    "role": "AI Engineer",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 11.2,
+    "max_salary_lpa": 17.6,
+    "fully_loaded_cost_usd": 21053,
+    "time_to_hire_days": 73
+  },
+  {
+    "id": "TC-093",
+    "city": "Hyderabad",
+    "role": "AI Engineer",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 12.6,
+    "max_salary_lpa": 19.8,
+    "fully_loaded_cost_usd": 23684,
+    "time_to_hire_days": 65
+  },
+  {
+    "id": "TC-094",
+    "city": "Kochi",
+    "role": "Backend Engineer",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 5.9,
+    "max_salary_lpa": 9.8,
+    "fully_loaded_cost_usd": 11477,
+    "time_to_hire_days": 34
+  },
+  {
+    "id": "TC-095",
+    "city": "Pune",
+    "role": "Backend Engineer",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 15.4,
+    "max_salary_lpa": 24.3,
+    "fully_loaded_cost_usd": 29020,
+    "time_to_hire_days": 40
+  },
+  {
+    "id": "TC-096",
+    "city": "Ahmedabad",
+    "role": "Finance Ops",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 4.1,
+    "max_salary_lpa": 6.8,
+    "fully_loaded_cost_usd": 7968,
+    "time_to_hire_days": 26
+  },
+  {
+    "id": "TC-097",
+    "city": "Kochi",
+    "role": "Backend Engineer",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 32.5,
+    "max_salary_lpa": 48.8,
+    "fully_loaded_cost_usd": 59430,
+    "time_to_hire_days": 82
+  },
+  {
+    "id": "TC-098",
+    "city": "Hyderabad",
+    "role": "DevOps",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 49.5,
+    "max_salary_lpa": 72.0,
+    "fully_loaded_cost_usd": 88816,
+    "time_to_hire_days": 60
+  },
+  {
+    "id": "TC-099",
+    "city": "Pune",
+    "role": "Product Manager",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 17.8,
+    "max_salary_lpa": 29.2,
+    "fully_loaded_cost_usd": 34357,
+    "time_to_hire_days": 45
+  },
+  {
+    "id": "TC-100",
+    "city": "Pune",
+    "role": "Product Manager",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 9.7,
+    "max_salary_lpa": 16.2,
+    "fully_loaded_cost_usd": 18933,
+    "time_to_hire_days": 28
+  },
+  {
+    "id": "TC-101",
+    "city": "Ahmedabad",
+    "role": "Legal Counsel",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 34.0,
+    "max_salary_lpa": 57.8,
+    "fully_loaded_cost_usd": 67105,
+    "time_to_hire_days": 63
+  },
+  {
+    "id": "TC-102",
+    "city": "Ahmedabad",
+    "role": "Frontend",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 30.6,
+    "max_salary_lpa": 46.2,
+    "fully_loaded_cost_usd": 56140,
+    "time_to_hire_days": 63
+  },
+  {
+    "id": "TC-103",
+    "city": "NCR",
+    "role": "Legal Counsel",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 6.4,
+    "max_salary_lpa": 11.2,
+    "fully_loaded_cost_usd": 12865,
+    "time_to_hire_days": 22
+  },
+  {
+    "id": "TC-104",
+    "city": "Bangalore",
+    "role": "Frontend",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 29.0,
+    "max_salary_lpa": 44.0,
+    "fully_loaded_cost_usd": 53363,
+    "time_to_hire_days": 52
+  },
+  {
+    "id": "TC-105",
+    "city": "NCR",
+    "role": "Backend Engineer",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 15.2,
+    "max_salary_lpa": 24.0,
+    "fully_loaded_cost_usd": 28655,
+    "time_to_hire_days": 47
+  },
+  {
+    "id": "TC-106",
+    "city": "Hyderabad",
+    "role": "DevOps",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 9.0,
+    "max_salary_lpa": 14.4,
+    "fully_loaded_cost_usd": 17105,
+    "time_to_hire_days": 32
+  },
+  {
+    "id": "TC-107",
+    "city": "Pune",
+    "role": "Backend Engineer",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 40.5,
+    "max_salary_lpa": 60.8,
+    "fully_loaded_cost_usd": 74050,
+    "time_to_hire_days": 61
+  },
+  {
+    "id": "TC-108",
+    "city": "Hyderabad",
+    "role": "Frontend",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 26.1,
+    "max_salary_lpa": 39.6,
+    "fully_loaded_cost_usd": 48026,
+    "time_to_hire_days": 59
+  },
+  {
+    "id": "TC-109",
+    "city": "NCR",
+    "role": "Backend Engineer",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 7.2,
+    "max_salary_lpa": 12.0,
+    "fully_loaded_cost_usd": 14035,
+    "time_to_hire_days": 34
+  },
+  {
+    "id": "TC-110",
+    "city": "Kochi",
+    "role": "Frontend",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 11.1,
+    "max_salary_lpa": 17.6,
+    "fully_loaded_cost_usd": 20980,
+    "time_to_hire_days": 40
+  },
+  {
+    "id": "TC-111",
+    "city": "Bangalore",
+    "role": "Product Manager",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 38.0,
+    "max_salary_lpa": 60.0,
+    "fully_loaded_cost_usd": 71637,
+    "time_to_hire_days": 54
+  },
+  {
+    "id": "TC-112",
+    "city": "NCR",
+    "role": "Product Manager",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 17.6,
+    "max_salary_lpa": 28.8,
+    "fully_loaded_cost_usd": 33918,
+    "time_to_hire_days": 46
+  },
+  {
+    "id": "TC-113",
+    "city": "Pune",
+    "role": "DevOps",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 8.1,
+    "max_salary_lpa": 13.0,
+    "fully_loaded_cost_usd": 15424,
+    "time_to_hire_days": 35
+  },
+  {
+    "id": "TC-114",
+    "city": "Pune",
+    "role": "Frontend",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 6.5,
+    "max_salary_lpa": 11.3,
+    "fully_loaded_cost_usd": 13012,
+    "time_to_hire_days": 34
+  },
+  {
+    "id": "TC-115",
+    "city": "Pune",
+    "role": "Finance Ops",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 25.9,
+    "max_salary_lpa": 42.1,
+    "fully_loaded_cost_usd": 49708,
+    "time_to_hire_days": 89
+  },
+  {
+    "id": "TC-116",
+    "city": "Hyderabad",
+    "role": "Finance Ops",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 5.4,
+    "max_salary_lpa": 9.0,
+    "fully_loaded_cost_usd": 10526,
+    "time_to_hire_days": 30
+  },
+  {
+    "id": "TC-117",
+    "city": "Hyderabad",
+    "role": "AI Engineer",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 43.2,
+    "max_salary_lpa": 64.8,
+    "fully_loaded_cost_usd": 78947,
+    "time_to_hire_days": 76
+  },
+  {
+    "id": "TC-118",
+    "city": "Hyderabad",
+    "role": "Product Manager",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 19.8,
+    "max_salary_lpa": 32.4,
+    "fully_loaded_cost_usd": 38158,
+    "time_to_hire_days": 48
+  },
+  {
+    "id": "TC-119",
+    "city": "Hyderabad",
+    "role": "Finance Ops",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 18.0,
+    "max_salary_lpa": 28.8,
+    "fully_loaded_cost_usd": 34211,
+    "time_to_hire_days": 57
+  },
+  {
+    "id": "TC-120",
+    "city": "Chennai",
+    "role": "Legal Counsel",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 6.2,
+    "max_salary_lpa": 10.8,
+    "fully_loaded_cost_usd": 12427,
+    "time_to_hire_days": 22
+  },
+  {
+    "id": "TC-121",
+    "city": "Hyderabad",
+    "role": "Product Manager",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 10.8,
+    "max_salary_lpa": 18.0,
+    "fully_loaded_cost_usd": 21053,
+    "time_to_hire_days": 27
+  },
+  {
+    "id": "TC-122",
+    "city": "NCR",
+    "role": "Finance Ops",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 8.8,
+    "max_salary_lpa": 15.2,
+    "fully_loaded_cost_usd": 17544,
+    "time_to_hire_days": 47
+  },
+  {
+    "id": "TC-123",
+    "city": "NCR",
+    "role": "AI Engineer",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 38.4,
+    "max_salary_lpa": 57.6,
+    "fully_loaded_cost_usd": 70175,
+    "time_to_hire_days": 85
+  },
+  {
+    "id": "TC-124",
+    "city": "NCR",
+    "role": "Frontend",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 6.4,
+    "max_salary_lpa": 11.2,
+    "fully_loaded_cost_usd": 12865,
+    "time_to_hire_days": 31
+  },
+  {
+    "id": "TC-125",
+    "city": "Ahmedabad",
+    "role": "Backend Engineer",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 34.0,
+    "max_salary_lpa": 51.0,
+    "fully_loaded_cost_usd": 62135,
+    "time_to_hire_days": 79
+  },
+  {
+    "id": "TC-126",
+    "city": "NCR",
+    "role": "Legal Counsel",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 12.8,
+    "max_salary_lpa": 22.4,
+    "fully_loaded_cost_usd": 25731,
+    "time_to_hire_days": 50
+  },
+  {
+    "id": "TC-127",
+    "city": "Chennai",
+    "role": "Legal Counsel",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 38.5,
+    "max_salary_lpa": 65.5,
+    "fully_loaded_cost_usd": 76023,
+    "time_to_hire_days": 63
+  },
+  {
+    "id": "TC-128",
+    "city": "Hyderabad",
+    "role": "Finance Ops",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 28.8,
+    "max_salary_lpa": 46.8,
+    "fully_loaded_cost_usd": 55263,
+    "time_to_hire_days": 89
+  },
+  {
+    "id": "TC-129",
+    "city": "Ahmedabad",
+    "role": "AI Engineer",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 19.4,
+    "max_salary_lpa": 30.6,
+    "fully_loaded_cost_usd": 36550,
+    "time_to_hire_days": 60
+  },
+  {
+    "id": "TC-130",
+    "city": "Ahmedabad",
+    "role": "Backend Engineer",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 6.1,
+    "max_salary_lpa": 10.2,
+    "fully_loaded_cost_usd": 11915,
+    "time_to_hire_days": 35
+  },
+  {
+    "id": "TC-131",
+    "city": "Bangalore",
+    "role": "Finance Ops",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 32.0,
+    "max_salary_lpa": 52.0,
+    "fully_loaded_cost_usd": 61404,
+    "time_to_hire_days": 84
+  },
+  {
+    "id": "TC-132",
+    "city": "Kochi",
+    "role": "Finance Ops",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 7.2,
+    "max_salary_lpa": 12.3,
+    "fully_loaded_cost_usd": 14254,
+    "time_to_hire_days": 49
+  },
+  {
+    "id": "TC-133",
+    "city": "Hyderabad",
+    "role": "Legal Counsel",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 45.0,
+    "max_salary_lpa": 76.5,
+    "fully_loaded_cost_usd": 88816,
+    "time_to_hire_days": 70
+  },
+  {
+    "id": "TC-134",
+    "city": "Chennai",
+    "role": "Product Manager",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 16.9,
+    "max_salary_lpa": 27.7,
+    "fully_loaded_cost_usd": 32602,
+    "time_to_hire_days": 44
+  },
+  {
+    "id": "TC-135",
+    "city": "Chennai",
+    "role": "Finance Ops",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 15.4,
+    "max_salary_lpa": 24.6,
+    "fully_loaded_cost_usd": 29240,
+    "time_to_hire_days": 48
+  },
+  {
+    "id": "TC-136",
+    "city": "Chennai",
+    "role": "Frontend",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 13.1,
+    "max_salary_lpa": 20.8,
+    "fully_loaded_cost_usd": 24781,
+    "time_to_hire_days": 48
+  },
+  {
+    "id": "TC-137",
+    "city": "Hyderabad",
+    "role": "Product Manager",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 58.5,
+    "max_salary_lpa": 90.0,
+    "fully_loaded_cost_usd": 108553,
+    "time_to_hire_days": 76
+  },
+  {
+    "id": "TC-138",
+    "city": "Kochi",
+    "role": "Legal Counsel",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 32.5,
+    "max_salary_lpa": 55.2,
+    "fully_loaded_cost_usd": 64108,
+    "time_to_hire_days": 69
+  },
+  {
+    "id": "TC-139",
+    "city": "Pune",
+    "role": "Finance Ops",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 4.9,
+    "max_salary_lpa": 8.1,
+    "fully_loaded_cost_usd": 9503,
+    "time_to_hire_days": 27
+  },
+  {
+    "id": "TC-140",
+    "city": "Chennai",
+    "role": "Product Manager",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 29.3,
+    "max_salary_lpa": 46.2,
+    "fully_loaded_cost_usd": 55190,
+    "time_to_hire_days": 49
+  },
+  {
+    "id": "TC-141",
+    "city": "Pune",
+    "role": "Finance Ops",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 16.2,
+    "max_salary_lpa": 25.9,
+    "fully_loaded_cost_usd": 30775,
+    "time_to_hire_days": 48
+  },
+  {
+    "id": "TC-142",
+    "city": "Hyderabad",
+    "role": "Backend Engineer",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 8.1,
+    "max_salary_lpa": 13.5,
+    "fully_loaded_cost_usd": 15789,
+    "time_to_hire_days": 38
+  },
+  {
+    "id": "TC-143",
+    "city": "Hyderabad",
+    "role": "Product Manager",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 34.2,
+    "max_salary_lpa": 54.0,
+    "fully_loaded_cost_usd": 64474,
+    "time_to_hire_days": 55
+  },
+  {
+    "id": "TC-144",
+    "city": "Hyderabad",
+    "role": "Legal Counsel",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 7.2,
+    "max_salary_lpa": 12.6,
+    "fully_loaded_cost_usd": 14474,
+    "time_to_hire_days": 26
+  },
+  {
+    "id": "TC-145",
+    "city": "NCR",
+    "role": "DevOps",
+    "experience_level": "Senior (6-9)",
+    "min_salary_lpa": 28.0,
+    "max_salary_lpa": 41.6,
+    "fully_loaded_cost_usd": 50877,
+    "time_to_hire_days": 52
+  },
+  {
+    "id": "TC-146",
+    "city": "Pune",
+    "role": "AI Engineer",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 60.8,
+    "max_salary_lpa": 91.1,
+    "fully_loaded_cost_usd": 111038,
+    "time_to_hire_days": 90
+  },
+  {
+    "id": "TC-147",
+    "city": "Chennai",
+    "role": "DevOps",
+    "experience_level": "Leadership (10+)",
+    "min_salary_lpa": 42.4,
+    "max_salary_lpa": 61.6,
+    "fully_loaded_cost_usd": 76023,
+    "time_to_hire_days": 81
+  },
+  {
+    "id": "TC-148",
+    "city": "Kochi",
+    "role": "Product Manager",
+    "experience_level": "Junior (0-2)",
+    "min_salary_lpa": 7.8,
+    "max_salary_lpa": 13.0,
+    "fully_loaded_cost_usd": 15205,
+    "time_to_hire_days": 25
+  },
+  {
+    "id": "TC-149",
+    "city": "Pune",
+    "role": "DevOps",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 16.2,
+    "max_salary_lpa": 25.9,
+    "fully_loaded_cost_usd": 30775,
+    "time_to_hire_days": 46
+  },
+  {
+    "id": "TC-150",
+    "city": "Chennai",
+    "role": "DevOps",
+    "experience_level": "Mid (3-5)",
+    "min_salary_lpa": 15.4,
+    "max_salary_lpa": 24.6,
+    "fully_loaded_cost_usd": 29240,
+    "time_to_hire_days": 40
+  }
+]

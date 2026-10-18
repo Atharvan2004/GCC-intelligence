@@ -1,0 +1,2141 @@
+[
+  {
+    "gcc_id": "GCC-001",
+    "parent_company_name": "NexaVale Financial",
+    "parent_hq_country": "Australia",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Bangalore"
+    ],
+    "year_established": 2020,
+    "total_india_headcount": 207,
+    "primary_functions": [
+      "Cybersecurity",
+      "Risk Analytics",
+      "Compliance Operations",
+      "AI R&D"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-002",
+    "parent_company_name": "Stratos Health AI",
+    "parent_hq_country": "Netherlands",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Hyderabad",
+      "Chennai"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 114,
+    "primary_functions": [
+      "AI R&D",
+      "Demand Planning",
+      "Marketing Analytics"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-003",
+    "parent_company_name": "BlueHaven Retail Group",
+    "parent_hq_country": "UK",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Ahmedabad (GIFT City)",
+      "Bangalore"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 101,
+    "primary_functions": [
+      "Product Engineering",
+      "IT Support"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-004",
+    "parent_company_name": "Orbiq Cloud Systems",
+    "parent_hq_country": "Canada",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Kochi"
+    ],
+    "year_established": 2021,
+    "total_india_headcount": 1565,
+    "primary_functions": [
+      "Data Engineering",
+      "Cybersecurity",
+      "Finance Ops",
+      "IT Support"
+    ],
+    "operating_model": "Joint Venture"
+  },
+  {
+    "gcc_id": "GCC-005",
+    "parent_company_name": "Veltrix Mobility",
+    "parent_hq_country": "France",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Bangalore",
+      "Chennai",
+      "NCR"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 295,
+    "primary_functions": [
+      "Finance Ops",
+      "IT Support"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-006",
+    "parent_company_name": "Asterion Capital",
+    "parent_hq_country": "UK",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Chennai"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 281,
+    "primary_functions": [
+      "Data Engineering",
+      "AI R&D",
+      "Risk Analytics"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-007",
+    "parent_company_name": "Northstar BioScience",
+    "parent_hq_country": "USA",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Bangalore",
+      "Kochi"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 240,
+    "primary_functions": [
+      "Customer Experience",
+      "Product Engineering"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-008",
+    "parent_company_name": "LumaPeak Commerce",
+    "parent_hq_country": "Australia",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Vizag",
+      "Hyderabad"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 75,
+    "primary_functions": [
+      "Product Engineering",
+      "Pharmacovigilance"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-009",
+    "parent_company_name": "Kestrel Digital",
+    "parent_hq_country": "UK",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Vizag"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 198,
+    "primary_functions": [
+      "Finance Ops",
+      "Cloud Engineering"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-010",
+    "parent_company_name": "Aurevia Medical Technologies",
+    "parent_hq_country": "Germany",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Pune",
+      "Indore",
+      "Jaipur"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 671,
+    "primary_functions": [
+      "Supply Chain Analytics",
+      "Vehicle Software",
+      "Finance Ops",
+      "Product Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-011",
+    "parent_company_name": "SilverFern Banking Group",
+    "parent_hq_country": "USA",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Bangalore",
+      "Pune"
+    ],
+    "year_established": 2015,
+    "total_india_headcount": 121,
+    "primary_functions": [
+      "Customer Operations",
+      "Compliance Operations",
+      "Finance Ops",
+      "Data Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-012",
+    "parent_company_name": "Brightforge Software",
+    "parent_hq_country": "France",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "NCR",
+      "Jaipur"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 196,
+    "primary_functions": [
+      "Demand Planning",
+      "AI R&D"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-013",
+    "parent_company_name": "Morrowline Consumer Brands",
+    "parent_hq_country": "USA",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Ahmedabad (GIFT City)"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 215,
+    "primary_functions": [
+      "Regulatory Operations",
+      "Research Analytics",
+      "Product Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-014",
+    "parent_company_name": "CobaltSpring Pharma",
+    "parent_hq_country": "Australia",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Bangalore",
+      "Hyderabad",
+      "Pune"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 70,
+    "primary_functions": [
+      "IT Support",
+      "Customer Success Operations",
+      "Cloud Engineering",
+      "Data Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-015",
+    "parent_company_name": "ArdenWave Motors",
+    "parent_hq_country": "South Korea",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 118,
+    "primary_functions": [
+      "AI R&D",
+      "Product Engineering"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-016",
+    "parent_company_name": "VantageRoot Payments",
+    "parent_hq_country": "UK",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Bangalore",
+      "NCR"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 165,
+    "primary_functions": [
+      "Data Engineering",
+      "Customer Operations",
+      "Cybersecurity",
+      "Product Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-017",
+    "parent_company_name": "CloudHarbor Data Systems",
+    "parent_hq_country": "Japan",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Coimbatore",
+      "Chennai"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 240,
+    "primary_functions": [
+      "Marketing Analytics",
+      "Customer Experience",
+      "Product Engineering",
+      "AI R&D"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-018",
+    "parent_company_name": "Everpine Wellness",
+    "parent_hq_country": "Switzerland",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Coimbatore"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 289,
+    "primary_functions": [
+      "IT Support",
+      "Product Engineering",
+      "Pharmacovigilance"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-019",
+    "parent_company_name": "Redwood Arc Markets",
+    "parent_hq_country": "Japan",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Bangalore",
+      "Kochi",
+      "Trivandrum"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 197,
+    "primary_functions": [
+      "Data Engineering",
+      "Cloud Engineering",
+      "Cybersecurity",
+      "Customer Success Operations"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-020",
+    "parent_company_name": "HelioCraft Automation",
+    "parent_hq_country": "USA",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "NCR"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 271,
+    "primary_functions": [
+      "Industrial Design",
+      "Vehicle Software",
+      "IT Support",
+      "Supply Chain Analytics"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-021",
+    "parent_company_name": "QuantaBrook Insurance",
+    "parent_hq_country": "Japan",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Pune",
+      "Indore"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 197,
+    "primary_functions": [
+      "Data Engineering",
+      "Cybersecurity",
+      "AI R&D"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-022",
+    "parent_company_name": "Fjordstone Health Devices",
+    "parent_hq_country": "Australia",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Indore",
+      "Pune"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 80,
+    "primary_functions": [
+      "Finance Ops",
+      "AI R&D"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-023",
+    "parent_company_name": "MarbleFox Retail Technologies",
+    "parent_hq_country": "UK",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Indore"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 214,
+    "primary_functions": [
+      "Finance Ops",
+      "Regulatory Operations"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-024",
+    "parent_company_name": "OpenCairn Enterprise AI",
+    "parent_hq_country": "UK",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Bangalore"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 1162,
+    "primary_functions": [
+      "IT Support",
+      "Finance Ops"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-025",
+    "parent_company_name": "Westmere Logistics",
+    "parent_hq_country": "UK",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Hyderabad",
+      "Chennai"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 234,
+    "primary_functions": [
+      "Embedded Systems",
+      "AI R&D",
+      "Vehicle Software",
+      "Finance Ops"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-026",
+    "parent_company_name": "TruNorth Asset Management",
+    "parent_hq_country": "UK",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Kochi",
+      "Trivandrum"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 265,
+    "primary_functions": [
+      "Compliance Operations",
+      "Risk Analytics"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-027",
+    "parent_company_name": "AxiomLoom Diagnostics",
+    "parent_hq_country": "Canada",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Trivandrum"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 274,
+    "primary_functions": [
+      "Customer Experience",
+      "Product Engineering",
+      "Finance Ops",
+      "Marketing Analytics"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-028",
+    "parent_company_name": "GreenCrest Foods",
+    "parent_hq_country": "USA",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Hyderabad",
+      "Pune",
+      "Ahmedabad (GIFT City)"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 226,
+    "primary_functions": [
+      "Finance Ops",
+      "Pharmacovigilance"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-029",
+    "parent_company_name": "PolarBridge Cloud Security",
+    "parent_hq_country": "Australia",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Chennai"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 52,
+    "primary_functions": [
+      "Product Engineering",
+      "AI R&D",
+      "Cybersecurity",
+      "IT Support"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-030",
+    "parent_company_name": "Ironleaf Automotive Systems",
+    "parent_hq_country": "USA",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Bangalore",
+      "Kochi"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 162,
+    "primary_functions": [
+      "Product Engineering",
+      "AI R&D",
+      "Embedded Systems",
+      "Finance Ops"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-031",
+    "parent_company_name": "CrescentBay Credit",
+    "parent_hq_country": "USA",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Jaipur",
+      "NCR"
+    ],
+    "year_established": 2019,
+    "total_india_headcount": 103,
+    "primary_functions": [
+      "Finance Ops",
+      "Customer Operations",
+      "Compliance Operations",
+      "Data Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-032",
+    "parent_company_name": "NovaThicket Pharmaceuticals",
+    "parent_hq_country": "Germany",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Jaipur"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 74,
+    "primary_functions": [
+      "Supply Chain Analytics",
+      "Customer Experience"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-033",
+    "parent_company_name": "PineOrbit Marketplaces",
+    "parent_hq_country": "Switzerland",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "NCR",
+      "Ahmedabad (GIFT City)"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 106,
+    "primary_functions": [
+      "Product Engineering",
+      "Clinical Data Management",
+      "IT Support",
+      "AI R&D"
+    ],
+    "operating_model": "Joint Venture"
+  },
+  {
+    "gcc_id": "GCC-034",
+    "parent_company_name": "SableGrid Developer Tools",
+    "parent_hq_country": "Australia",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Bangalore",
+      "Pune"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 233,
+    "primary_functions": [
+      "AI R&D",
+      "Finance Ops"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-035",
+    "parent_company_name": "AmberField Consumer Health",
+    "parent_hq_country": "France",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "NCR",
+      "Jaipur"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 187,
+    "primary_functions": [
+      "Embedded Systems",
+      "Supply Chain Analytics",
+      "Product Engineering"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-036",
+    "parent_company_name": "SummitLark Banking Technology",
+    "parent_hq_country": "Japan",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Kochi"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 183,
+    "primary_functions": [
+      "Finance Ops",
+      "Data Engineering",
+      "Cybersecurity",
+      "AI R&D"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-037",
+    "parent_company_name": "FableRock Medical AI",
+    "parent_hq_country": "UK",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Bangalore",
+      "Chennai",
+      "NCR"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 233,
+    "primary_functions": [
+      "Demand Planning",
+      "Customer Experience",
+      "Product Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-038",
+    "parent_company_name": "BrightCurrent Home Retail",
+    "parent_hq_country": "UK",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Pune"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 143,
+    "primary_functions": [
+      "IT Support",
+      "Clinical Data Management"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-039",
+    "parent_company_name": "WestArc Cybersecurity",
+    "parent_hq_country": "UK",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Bangalore",
+      "NCR"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 65,
+    "primary_functions": [
+      "Product Engineering",
+      "Data Engineering",
+      "Customer Success Operations"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-040",
+    "parent_company_name": "MeadowPeak Vehicle Systems",
+    "parent_hq_country": "Germany",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Coimbatore",
+      "Chennai"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 107,
+    "primary_functions": [
+      "AI R&D",
+      "Supply Chain Analytics"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-041",
+    "parent_company_name": "CinderVale Fintech",
+    "parent_hq_country": "Japan",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Vizag"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 202,
+    "primary_functions": [
+      "Compliance Operations",
+      "Customer Operations",
+      "Cybersecurity"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-042",
+    "parent_company_name": "CloudMosaic Clinical Research",
+    "parent_hq_country": "Germany",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Pune",
+      "Indore",
+      "Jaipur"
+    ],
+    "year_established": 2020,
+    "total_india_headcount": 271,
+    "primary_functions": [
+      "AI R&D",
+      "Marketing Analytics"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-043",
+    "parent_company_name": "DawnHarbor Lifestyle Goods",
+    "parent_hq_country": "Australia",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "year_established": 2021,
+    "total_india_headcount": 200,
+    "primary_functions": [
+      "Product Engineering",
+      "Pharmacovigilance",
+      "IT Support"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-044",
+    "parent_company_name": "TandemVale Business Software",
+    "parent_hq_country": "UK",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Pune",
+      "Indore"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 293,
+    "primary_functions": [
+      "Finance Ops",
+      "Cloud Engineering"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-045",
+    "parent_company_name": "AtlasMere Industrial Mobility",
+    "parent_hq_country": "USA",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Indore",
+      "Pune"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 58,
+    "primary_functions": [
+      "Vehicle Software",
+      "Industrial Design",
+      "AI R&D"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-046",
+    "parent_company_name": "LatticeCove Investment Services",
+    "parent_hq_country": "Germany",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Bangalore",
+      "Hyderabad",
+      "Pune"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 110,
+    "primary_functions": [
+      "Cybersecurity",
+      "Data Engineering",
+      "Risk Analytics"
+    ],
+    "operating_model": "Joint Venture"
+  },
+  {
+    "gcc_id": "GCC-047",
+    "parent_company_name": "JuniperAxis Therapeutics",
+    "parent_hq_country": "Germany",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 151,
+    "primary_functions": [
+      "Product Engineering",
+      "Finance Ops"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-048",
+    "parent_company_name": "HarborMint Consumer Markets",
+    "parent_hq_country": "UK",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Pune",
+      "Chennai"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 148,
+    "primary_functions": [
+      "Product Engineering",
+      "Research Analytics",
+      "Pharmacovigilance"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-049",
+    "parent_company_name": "EchoSpire Data Platforms",
+    "parent_hq_country": "USA",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Kochi",
+      "Trivandrum"
+    ],
+    "year_established": 2021,
+    "total_india_headcount": 643,
+    "primary_functions": [
+      "Finance Ops",
+      "Cloud Engineering",
+      "Cybersecurity"
+    ],
+    "operating_model": "Joint Venture"
+  },
+  {
+    "gcc_id": "GCC-050",
+    "parent_company_name": "Stonebrook Electric Mobility",
+    "parent_hq_country": "USA",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Trivandrum"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 1065,
+    "primary_functions": [
+      "Vehicle Software",
+      "Finance Ops",
+      "Supply Chain Analytics"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-051",
+    "parent_company_name": "KiteHarbor Risk Analytics",
+    "parent_hq_country": "Switzerland",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Bangalore",
+      "Kochi",
+      "Trivandrum"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 130,
+    "primary_functions": [
+      "Compliance Operations",
+      "Cybersecurity",
+      "Customer Operations",
+      "Risk Analytics"
+    ],
+    "operating_model": "Joint Venture"
+  },
+  {
+    "gcc_id": "GCC-052",
+    "parent_company_name": "CopperWren Medical Instruments",
+    "parent_hq_country": "Japan",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "NCR"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 249,
+    "primary_functions": [
+      "Supply Chain Analytics",
+      "Demand Planning"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-053",
+    "parent_company_name": "OrchidVale Apparel Group",
+    "parent_hq_country": "Germany",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Hyderabad",
+      "Vizag"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 75,
+    "primary_functions": [
+      "Regulatory Operations",
+      "Research Analytics",
+      "Pharmacovigilance",
+      "Finance Ops"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-054",
+    "parent_company_name": "NobleCircuit Workflow Software",
+    "parent_hq_country": "Japan",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Jaipur",
+      "NCR"
+    ],
+    "year_established": 2018,
+    "total_india_headcount": 304,
+    "primary_functions": [
+      "Data Engineering",
+      "Customer Success Operations"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-055",
+    "parent_company_name": "RedMaple Auto Components",
+    "parent_hq_country": "South Korea",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Jaipur"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 190,
+    "primary_functions": [
+      "Embedded Systems",
+      "AI R&D",
+      "Industrial Design",
+      "Vehicle Software"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-056",
+    "parent_company_name": "SoraBridge Digital Lending",
+    "parent_hq_country": "UK",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Bangalore"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 171,
+    "primary_functions": [
+      "AI R&D",
+      "Product Engineering",
+      "Cybersecurity"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-057",
+    "parent_company_name": "PillarSpring Health Networks",
+    "parent_hq_country": "UK",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Hyderabad",
+      "Chennai"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 105,
+    "primary_functions": [
+      "AI R&D",
+      "Demand Planning",
+      "Supply Chain Analytics"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-058",
+    "parent_company_name": "Daymark Grocery Group",
+    "parent_hq_country": "USA",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Ahmedabad (GIFT City)",
+      "Bangalore"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 221,
+    "primary_functions": [
+      "Research Analytics",
+      "Finance Ops",
+      "IT Support"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-059",
+    "parent_company_name": "CloudJuniper Infrastructure Software",
+    "parent_hq_country": "Israel",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Kochi"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 146,
+    "primary_functions": [
+      "Product Engineering",
+      "Data Engineering",
+      "AI R&D"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-060",
+    "parent_company_name": "Eastwind EV Technologies",
+    "parent_hq_country": "UK",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Bangalore",
+      "Chennai",
+      "NCR"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 3887,
+    "primary_functions": [
+      "AI R&D",
+      "IT Support",
+      "Supply Chain Analytics",
+      "Finance Ops"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-061",
+    "parent_company_name": "MeridianFox Financial Data",
+    "parent_hq_country": "Germany",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Chennai"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 203,
+    "primary_functions": [
+      "Finance Ops",
+      "Cybersecurity"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-062",
+    "parent_company_name": "Evertrail Genomics",
+    "parent_hq_country": "UK",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Bangalore",
+      "Kochi"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 66,
+    "primary_functions": [
+      "Supply Chain Analytics",
+      "AI R&D",
+      "Digital Commerce",
+      "Finance Ops"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-063",
+    "parent_company_name": "MicaStone Specialty Retail",
+    "parent_hq_country": "Japan",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Vizag",
+      "Hyderabad"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 118,
+    "primary_functions": [
+      "Clinical Data Management",
+      "Product Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-064",
+    "parent_company_name": "AltoBrook AI Platforms",
+    "parent_hq_country": "UK",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Vizag"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 154,
+    "primary_functions": [
+      "IT Support",
+      "Customer Success Operations",
+      "Product Engineering",
+      "Finance Ops"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-065",
+    "parent_company_name": "GraniteBloom Auto Electronics",
+    "parent_hq_country": "UK",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Pune",
+      "Indore",
+      "Jaipur"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 168,
+    "primary_functions": [
+      "AI R&D",
+      "Product Engineering",
+      "Supply Chain Analytics",
+      "Embedded Systems"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-066",
+    "parent_company_name": "BlueCedar Treasury Services",
+    "parent_hq_country": "Switzerland",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Bangalore",
+      "Pune"
+    ],
+    "year_established": 2016,
+    "total_india_headcount": 92,
+    "primary_functions": [
+      "Customer Operations",
+      "Risk Analytics"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-067",
+    "parent_company_name": "CrownHarbor Care Technologies",
+    "parent_hq_country": "USA",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "NCR",
+      "Jaipur"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 241,
+    "primary_functions": [
+      "Marketing Analytics",
+      "Digital Commerce",
+      "Demand Planning",
+      "Supply Chain Analytics"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-068",
+    "parent_company_name": "Riverglass Beauty Brands",
+    "parent_hq_country": "Denmark",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Ahmedabad (GIFT City)"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 120,
+    "primary_functions": [
+      "Clinical Data Management",
+      "Finance Ops",
+      "AI R&D",
+      "IT Support"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-069",
+    "parent_company_name": "LumenDock Enterprise Applications",
+    "parent_hq_country": "Ireland",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Bangalore",
+      "Hyderabad",
+      "Pune"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 110,
+    "primary_functions": [
+      "Cybersecurity",
+      "AI R&D",
+      "Finance Ops",
+      "Product Engineering"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-070",
+    "parent_company_name": "Falconmere Transport Systems",
+    "parent_hq_country": "Germany",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 97,
+    "primary_functions": [
+      "AI R&D",
+      "Embedded Systems",
+      "Finance Ops"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-071",
+    "parent_company_name": "Glenhaven Wealth Solutions",
+    "parent_hq_country": "Australia",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Bangalore",
+      "NCR"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 245,
+    "primary_functions": [
+      "Compliance Operations",
+      "Cybersecurity",
+      "Data Engineering",
+      "Product Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-072",
+    "parent_company_name": "AsteraField Life Sciences",
+    "parent_hq_country": "USA",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Coimbatore",
+      "Chennai"
+    ],
+    "year_established": 2018,
+    "total_india_headcount": 55,
+    "primary_functions": [
+      "Digital Commerce",
+      "Product Engineering",
+      "AI R&D"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-073",
+    "parent_company_name": "UrbanThistle Retail Analytics",
+    "parent_hq_country": "UK",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Coimbatore"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 118,
+    "primary_functions": [
+      "Pharmacovigilance",
+      "Product Engineering",
+      "Regulatory Operations",
+      "Finance Ops"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-074",
+    "parent_company_name": "MonarchVale Security Software",
+    "parent_hq_country": "Australia",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Bangalore",
+      "Kochi",
+      "Trivandrum"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 159,
+    "primary_functions": [
+      "IT Support",
+      "Cloud Engineering",
+      "Cybersecurity",
+      "Data Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-075",
+    "parent_company_name": "KeystoneElm Powertrain",
+    "parent_hq_country": "Sweden",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "NCR"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 174,
+    "primary_functions": [
+      "Supply Chain Analytics",
+      "Product Engineering"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-076",
+    "parent_company_name": "WillowSpire Insurance Services",
+    "parent_hq_country": "USA",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Pune",
+      "Indore"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 284,
+    "primary_functions": [
+      "Risk Analytics",
+      "Finance Ops"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-077",
+    "parent_company_name": "CobaltVale Precision Medicine",
+    "parent_hq_country": "Netherlands",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Indore",
+      "Pune"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 190,
+    "primary_functions": [
+      "Marketing Analytics",
+      "Customer Experience",
+      "Finance Ops"
+    ],
+    "operating_model": "Joint Venture"
+  },
+  {
+    "gcc_id": "GCC-078",
+    "parent_company_name": "MarketCairn Omnichannel Retail",
+    "parent_hq_country": "Switzerland",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Indore"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 80,
+    "primary_functions": [
+      "Clinical Data Management",
+      "Pharmacovigilance"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-079",
+    "parent_company_name": "TrellisForge DevOps Systems",
+    "parent_hq_country": "UK",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Bangalore"
+    ],
+    "year_established": 2021,
+    "total_india_headcount": 1705,
+    "primary_functions": [
+      "Cybersecurity",
+      "Product Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-080",
+    "parent_company_name": "AxleSpring Connected Vehicles",
+    "parent_hq_country": "Germany",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Hyderabad",
+      "Chennai"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 868,
+    "primary_functions": [
+      "AI R&D",
+      "Finance Ops",
+      "Vehicle Software",
+      "IT Support"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-081",
+    "parent_company_name": "PeregrineBay Payments Network",
+    "parent_hq_country": "USA",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Kochi",
+      "Trivandrum"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 240,
+    "primary_functions": [
+      "Customer Operations",
+      "Product Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-082",
+    "parent_company_name": "VelaNorth Hospital Solutions",
+    "parent_hq_country": "Australia",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Trivandrum"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 181,
+    "primary_functions": [
+      "Finance Ops",
+      "Marketing Analytics",
+      "Customer Experience"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-083",
+    "parent_company_name": "Larkspur Lane Outdoor Goods",
+    "parent_hq_country": "USA",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Hyderabad",
+      "Pune",
+      "Ahmedabad (GIFT City)"
+    ],
+    "year_established": 2021,
+    "total_india_headcount": 215,
+    "primary_functions": [
+      "Finance Ops",
+      "Pharmacovigilance",
+      "Regulatory Operations"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-084",
+    "parent_company_name": "SaffronPeak Data Engineering",
+    "parent_hq_country": "Israel",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Chennai"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 214,
+    "primary_functions": [
+      "Cloud Engineering",
+      "Data Engineering",
+      "Cybersecurity",
+      "Finance Ops"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-085",
+    "parent_company_name": "MotionCrest Automotive Design",
+    "parent_hq_country": "USA",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Bangalore",
+      "Kochi"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 100,
+    "primary_functions": [
+      "Industrial Design",
+      "Product Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-086",
+    "parent_company_name": "CedarQuanta Financial Technology",
+    "parent_hq_country": "Japan",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Jaipur",
+      "NCR"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 123,
+    "primary_functions": [
+      "Customer Operations",
+      "Compliance Operations",
+      "Finance Ops",
+      "AI R&D"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-087",
+    "parent_company_name": "AuroraMend Digital Therapeutics",
+    "parent_hq_country": "Netherlands",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Jaipur"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 108,
+    "primary_functions": [
+      "Finance Ops",
+      "Digital Commerce",
+      "Demand Planning",
+      "Product Engineering"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-088",
+    "parent_company_name": "OrionBasket Consumer Retail",
+    "parent_hq_country": "USA",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "NCR",
+      "Ahmedabad (GIFT City)"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 190,
+    "primary_functions": [
+      "AI R&D",
+      "IT Support"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-089",
+    "parent_company_name": "IronVista Enterprise Security",
+    "parent_hq_country": "Canada",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Bangalore",
+      "Pune"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 153,
+    "primary_functions": [
+      "Customer Success Operations",
+      "IT Support",
+      "Data Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-090",
+    "parent_company_name": "Driftwood Labs Mobility Software",
+    "parent_hq_country": "South Korea",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "NCR",
+      "Jaipur"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 168,
+    "primary_functions": [
+      "Embedded Systems",
+      "Industrial Design",
+      "Vehicle Software"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-091",
+    "parent_company_name": "MintHorizon Credit Analytics",
+    "parent_hq_country": "USA",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Kochi"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 221,
+    "primary_functions": [
+      "Cybersecurity",
+      "Risk Analytics"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-092",
+    "parent_company_name": "AsterBrook Pharma Research",
+    "parent_hq_country": "Netherlands",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Bangalore",
+      "Chennai",
+      "NCR"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 73,
+    "primary_functions": [
+      "Marketing Analytics",
+      "Digital Commerce",
+      "Supply Chain Analytics",
+      "Customer Experience"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-093",
+    "parent_company_name": "BeaconLoom Retail Operations",
+    "parent_hq_country": "Australia",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Pune"
+    ],
+    "year_established": 2020,
+    "total_india_headcount": 69,
+    "primary_functions": [
+      "Finance Ops",
+      "IT Support",
+      "Regulatory Operations",
+      "AI R&D"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-094",
+    "parent_company_name": "NorthVale Cloud Applications",
+    "parent_hq_country": "USA",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Bangalore",
+      "NCR"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 455,
+    "primary_functions": [
+      "AI R&D",
+      "Cloud Engineering",
+      "Data Engineering"
+    ],
+    "operating_model": "Joint Venture"
+  },
+  {
+    "gcc_id": "GCC-095",
+    "parent_company_name": "SilverCurrent Vehicle Intelligence",
+    "parent_hq_country": "Netherlands",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Coimbatore",
+      "Chennai"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 123,
+    "primary_functions": [
+      "AI R&D",
+      "Finance Ops"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-096",
+    "parent_company_name": "PineSignal Capital Markets",
+    "parent_hq_country": "Germany",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Vizag"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 282,
+    "primary_functions": [
+      "Data Engineering",
+      "Cybersecurity",
+      "Customer Operations",
+      "Risk Analytics"
+    ],
+    "operating_model": "Joint Venture"
+  },
+  {
+    "gcc_id": "GCC-097",
+    "parent_company_name": "WellSpring Arc Medical Diagnostics",
+    "parent_hq_country": "Canada",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Pune",
+      "Indore",
+      "Jaipur"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 98,
+    "primary_functions": [
+      "Marketing Analytics",
+      "Supply Chain Analytics"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-098",
+    "parent_company_name": "MosaicTrail Consumer Products",
+    "parent_hq_country": "Denmark",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 51,
+    "primary_functions": [
+      "Research Analytics",
+      "AI R&D",
+      "Product Engineering",
+      "Clinical Data Management"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-099",
+    "parent_company_name": "CloudRidge AI Infrastructure",
+    "parent_hq_country": "Ireland",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Pune",
+      "Indore"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 119,
+    "primary_functions": [
+      "Customer Success Operations",
+      "Finance Ops",
+      "AI R&D"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-100",
+    "parent_company_name": "CanyonElm Automotive Engineering",
+    "parent_hq_country": "Sweden",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Indore",
+      "Pune"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 706,
+    "primary_functions": [
+      "Finance Ops",
+      "Supply Chain Analytics"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-101",
+    "parent_company_name": "FrostHarbor Digital Banking",
+    "parent_hq_country": "Germany",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Bangalore",
+      "Hyderabad",
+      "Pune"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 176,
+    "primary_functions": [
+      "Compliance Operations",
+      "Cybersecurity",
+      "Data Engineering",
+      "Product Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-102",
+    "parent_company_name": "LatticeFern Biotechnology",
+    "parent_hq_country": "France",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 67,
+    "primary_functions": [
+      "Supply Chain Analytics",
+      "Demand Planning",
+      "Customer Experience"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-103",
+    "parent_company_name": "CloverRoute Direct Commerce",
+    "parent_hq_country": "Switzerland",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Pune",
+      "Chennai"
+    ],
+    "year_established": 2020,
+    "total_india_headcount": 53,
+    "primary_functions": [
+      "IT Support",
+      "Regulatory Operations",
+      "Research Analytics"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-104",
+    "parent_company_name": "BorealStack Enterprise Data",
+    "parent_hq_country": "UK",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Kochi",
+      "Trivandrum"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 175,
+    "primary_functions": [
+      "IT Support",
+      "Customer Success Operations",
+      "Data Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-105",
+    "parent_company_name": "SummitAxle Automotive Software",
+    "parent_hq_country": "Germany",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Trivandrum"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 370,
+    "primary_functions": [
+      "Finance Ops",
+      "AI R&D"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-106",
+    "parent_company_name": "HorizonMica Compliance Technology",
+    "parent_hq_country": "Canada",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Bangalore",
+      "Kochi",
+      "Trivandrum"
+    ],
+    "year_established": 2019,
+    "total_india_headcount": 63,
+    "primary_functions": [
+      "Compliance Operations",
+      "Risk Analytics",
+      "Customer Operations"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-107",
+    "parent_company_name": "NovaCedar Health Analytics",
+    "parent_hq_country": "UK",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "NCR"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 70,
+    "primary_functions": [
+      "Marketing Analytics",
+      "Demand Planning",
+      "Supply Chain Analytics",
+      "Finance Ops"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-108",
+    "parent_company_name": "Fieldstone Bay Retail Supply Chain",
+    "parent_hq_country": "Denmark",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Hyderabad",
+      "Vizag"
+    ],
+    "year_established": 2023,
+    "total_india_headcount": 184,
+    "primary_functions": [
+      "Product Engineering",
+      "Pharmacovigilance"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-109",
+    "parent_company_name": "Crestline Orbit Application Security",
+    "parent_hq_country": "USA",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Jaipur",
+      "NCR"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 812,
+    "primary_functions": [
+      "IT Support",
+      "AI R&D",
+      "Cybersecurity",
+      "Data Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-110",
+    "parent_company_name": "OpalRoad Vehicle Electronics",
+    "parent_hq_country": "USA",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Jaipur"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 282,
+    "primary_functions": [
+      "Finance Ops",
+      "Supply Chain Analytics"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-111",
+    "parent_company_name": "TerraVale Merchant Services",
+    "parent_hq_country": "Australia",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Bangalore"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 263,
+    "primary_functions": [
+      "Data Engineering",
+      "Compliance Operations"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-112",
+    "parent_company_name": "KindredPeak Digital Health",
+    "parent_hq_country": "Netherlands",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Hyderabad",
+      "Chennai"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 291,
+    "primary_functions": [
+      "AI R&D",
+      "Digital Commerce",
+      "Finance Ops"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-113",
+    "parent_company_name": "UrbanFable Home Essentials",
+    "parent_hq_country": "Switzerland",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Ahmedabad (GIFT City)",
+      "Bangalore"
+    ],
+    "year_established": 2021,
+    "total_india_headcount": 119,
+    "primary_functions": [
+      "Product Engineering",
+      "Pharmacovigilance"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-114",
+    "parent_company_name": "ClearSpindle Productivity Software",
+    "parent_hq_country": "USA",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Kochi"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 68,
+    "primary_functions": [
+      "Cloud Engineering",
+      "IT Support",
+      "AI R&D",
+      "Data Engineering"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-115",
+    "parent_company_name": "EmberTrail Fleet Technologies",
+    "parent_hq_country": "Germany",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Bangalore",
+      "Chennai",
+      "NCR"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 1033,
+    "primary_functions": [
+      "Product Engineering",
+      "Finance Ops",
+      "Supply Chain Analytics"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-116",
+    "parent_company_name": "GroveAxis Corporate Finance",
+    "parent_hq_country": "UK",
+    "primary_industry": "BFSI",
+    "india_locations": [
+      "Chennai"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 69,
+    "primary_functions": [
+      "Cybersecurity",
+      "Data Engineering",
+      "Risk Analytics",
+      "AI R&D"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-117",
+    "parent_company_name": "CuraNorth Research Systems",
+    "parent_hq_country": "USA",
+    "primary_industry": "Retail & CPG",
+    "india_locations": [
+      "Bangalore",
+      "Kochi"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 181,
+    "primary_functions": [
+      "Supply Chain Analytics",
+      "Marketing Analytics",
+      "Customer Experience",
+      "Finance Ops"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-118",
+    "parent_company_name": "Pavilion Brook Luxury Retail",
+    "parent_hq_country": "USA",
+    "primary_industry": "Healthcare & Pharma",
+    "india_locations": [
+      "Vizag",
+      "Hyderabad"
+    ],
+    "year_established": 2025,
+    "total_india_headcount": 134,
+    "primary_functions": [
+      "Regulatory Operations",
+      "Research Analytics",
+      "Product Engineering",
+      "IT Support"
+    ],
+    "operating_model": "Managed Services / EOR"
+  },
+  {
+    "gcc_id": "GCC-119",
+    "parent_company_name": "VectorThicket API Software",
+    "parent_hq_country": "Germany",
+    "primary_industry": "Enterprise Software",
+    "india_locations": [
+      "Vizag"
+    ],
+    "year_established": 2022,
+    "total_india_headcount": 4348,
+    "primary_functions": [
+      "Cybersecurity",
+      "Cloud Engineering",
+      "Data Engineering"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  },
+  {
+    "gcc_id": "GCC-120",
+    "parent_company_name": "AutumnCircuit Automotive Analytics",
+    "parent_hq_country": "Japan",
+    "primary_industry": "Automotive",
+    "india_locations": [
+      "Pune",
+      "Indore",
+      "Jaipur"
+    ],
+    "year_established": 2024,
+    "total_india_headcount": 255,
+    "primary_functions": [
+      "IT Support",
+      "Industrial Design"
+    ],
+    "operating_model": "Wholly Owned Subsidiary"
+  }
+]
